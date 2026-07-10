@@ -19,7 +19,9 @@ Please **do** contact me if a magazine is included which does accept AI work.
 Magazines must not charge a fee for submissions.
 Please **do** contact me if a magazine is included which charges fees. 
 
-Magazines should generally pay authors "pro" rates (aka USD $0.08 or more per word). This is mostly a time-saving mechanism. If I stick with the project or get more people involved, I am happy to expand that!
+Magazines must publish short fiction that is 1500 words or fewer. Please **do** contact me if I have missed a magazine which publishes fiction of this length, so long as it meets the other criteria.
+
+To start with, I have limited the set of magazines to those which publish genre fiction (science fiction, fantasy, or horror) and which pay authors USD $0.08 or more per word. This is mostly a time-saving mechanism. If I stick with the project or get more people involved, I am happy to expand that!
 
 ### Stories
 Stories must not be written using AI.
