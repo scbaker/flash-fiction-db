@@ -12,6 +12,10 @@ Magazines which accept AI-authored or AI-assisted work, or stories which have be
 Please **do** contact me if a magazine is included which does accept AI work. 
 Please **do not** contact me to tell me a story is AI **unless** it has been confirmed as such by a reputable source, such as the author or magazine in which it was published. (AI detection tools are themselves a form of AI and they are notoriously inaccurate. They are not a reputable source.)
 
+Currently I am only able to list stories written in English, as this is the only language I speak well enough to seek out published work in. 
+
+Currently I am only listing stories published in magazines that pay "pro" rates (aka USD $0.08 or more per word). If I stick with the project, that criteria will expand!
+
 ## Files
 - magazines.csv is a list of magazines which publish flash fiction
 - stories.csv is a list of published flash fiction
