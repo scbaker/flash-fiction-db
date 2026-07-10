@@ -1,6 +1,9 @@
 # Flash Fiction DB
 Flash Fiction DB is a database (okay, a series of spreadsheets) of published flash fiction, including title, author name, wordcount, publication date, and other relevant information.
 
+## License Terms
+The spreadsheets in this project are collections of data. Thus they are not likely to be protectable by copyright. For the sake of clarity and convenience, I have placed a [CC 0 (public domain) license](https://creativecommons.org/publicdomain/zero/1.0/) on the project.
+
 ## What is this?
 Flash Fiction DB contains several spreadsheets. The purpose is to track published works of flash fiction in an easily browsable, easily adaptable format.
 
